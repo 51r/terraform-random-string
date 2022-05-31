@@ -1,6 +1,6 @@
 # Terraform Provider random_string example
 
-This repo contains sample code of Terraform Provider [Random](https://registry.terraform.io/providers/hashicorp/random/latest)
+This repo contains sample code of Terraform Provider [random_string](https://registry.terraform.io/providers/hashicorp/random/latest)
 
 It is configured to generate a random 10 character string.
 
