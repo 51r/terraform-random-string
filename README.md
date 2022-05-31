@@ -1,1 +1,1 @@
-# terraform-random
+# Terraform Random Provider example
