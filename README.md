@@ -2,7 +2,7 @@
 
 This repo contains sample code of Terraform Provider [Random](https://registry.terraform.io/providers/hashicorp/random/latest)
 
-It is configured to create a random string.
+It is configured to generate a 10 character random string.
 
 # Prerequisite
 This guide applies to Mac, for other OS it may vary. You need to have terraform CLI installed on you workstation. In the guide below, we will be using [homebrew](https://brew.sh/)
@@ -11,10 +11,12 @@ This guide applies to Mac, for other OS it may vary. You need to have terraform 
     ```
     brew tap hashicorp/tap
     ```
+    
 * Now, install Terraform with hashicorp/tap/terraform.
    ```
    brew install hashicorp/tap/terraform
    ```
+   
 *  for any other OS click [here](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 **NOTE: This installs a signed binary and is automatically updated with every new official release.**
@@ -55,5 +57,6 @@ terraform apply
 ```
 terraform show
 ```
+
 <img width="489" alt="Screen Shot 2022-05-31 at 9 44 46 AM" src="https://user-images.githubusercontent.com/52199951/171109429-7ac8c9b7-9662-49d0-bf54-eaa02ed7483c.png">
 
