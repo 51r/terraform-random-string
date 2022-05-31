@@ -7,6 +7,8 @@ It is configured to generate a random 10 character string.
 # Prerequisite
 You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) installed on you workstation. 
 
+During the writing of the following guide, it was used Terraform v1.2.1
+
 # How to use the repo
 
 * Clone this repo locally to a folder of your choice
