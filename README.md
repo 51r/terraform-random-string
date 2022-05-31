@@ -11,12 +11,12 @@ You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform
 
 * Clone this repo locally to a folder of your choice
 ```
-git clone https://github.com/51r/terraform-random.git
+git clone https://github.com/51r/terraform-random-string.git
 ```
 
 * Make sure you are in the main directory of the repo:
 ```
-cd terraform-random
+cd terraform-random-string
 ```
 
 * initialize Terraform  
