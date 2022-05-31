@@ -5,9 +5,7 @@ This repo contains sample code of Terraform Provider [random_string](https://reg
 It is configured to generate a random 10 character string.
 
 # Prerequisite
-You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) installed on you workstation. 
-
-During the writing of the following guide, it was used Terraform v1.2.1
+You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) >= 1.2.1 installed on you workstation. 
 
 # How to use the repo
 
