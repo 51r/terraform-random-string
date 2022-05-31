@@ -1,3 +1,3 @@
-resource "random_id" "sample" {
-  byte_length = 8
+resource "random_string" "sample" {
+  length = 10
 }
